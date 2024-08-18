@@ -168,4 +168,4 @@
 
 <p style="text-align:justify">Por fim, terminamos essa parte do tutorial. Na próximo parte trataremos de como podemos nos conectar a serviços hospedados na I2P como XMPP.</p>
 
-<p style="text-align:justify">Até a próxima. By :: Grom :: lalaio1 </p></div>
+<p style="text-align:justify">Até a próxima. By lalaio1 </p></div>
